@@ -6,3 +6,4 @@ This is a trial Repository
 
 Print"I am learning Pyhton"
 nachunga
+this is mini master
