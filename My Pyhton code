@@ -1,3 +1,0 @@
-print("HEELO")
-for ii n range(4):
-  print ii
